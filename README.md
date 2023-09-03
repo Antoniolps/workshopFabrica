@@ -15,7 +15,7 @@
 # Uso
 <p>Após criar o banco e instalar as dependencias é necessario inicializar os server e abri-lo no navegador, a url padrão lista os posts, para cadastrar novos usuário acesse a url /user e para novos posts /post</p>
 #Autor
-[@Antoniolps](https://github.com/Antoniolps)https://github.com/Antoniolps
+[@Antoniolps](https://github.com/Antoniolps)
 
 
 
