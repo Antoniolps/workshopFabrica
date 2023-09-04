@@ -9,5 +9,4 @@ def pagination(request):
     page = request.GET.get('page')
     posts = paginator.get_page(page)
 
-    
     return render(request, 'pagination.html', {'posts': posts})

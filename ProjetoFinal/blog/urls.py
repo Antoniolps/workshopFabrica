@@ -7,6 +7,9 @@ urlpatterns = [
     path('post/', include('apps.post.urls')),
 
     path('user/', include('apps.user.urls')),
+    
+    path('comment', include('apps.comment.urls')),
 
-    path('', include('apps.index.urls'))
+    path('', include('apps.index.urls')),
+
 ]
