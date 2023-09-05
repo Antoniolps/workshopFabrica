@@ -1,5 +1,8 @@
+from typing import Type
 from django.db import models
+
 from apps.user.models import User
+
 
 class Post(models.Model):
     title = models.CharField(max_length=100)
